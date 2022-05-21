@@ -10,6 +10,10 @@ The code is written for Arduino Leonardo, but should be easily ported to other a
 
 
 
+https://user-images.githubusercontent.com/40230471/169635793-d4199e9a-aa0d-4e74-baa6-8dfa77070f1e.mp4
+
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
