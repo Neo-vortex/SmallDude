@@ -1,0 +1,17 @@
+# Small Dude
+
+ Small Dude is a small project for audio visualization using Arduino based boards, MAX7219 dot display driver and a simple microphone 
+
+## Installation
+
+Use PlatformIO in VScode to build up the project
+The code is written for Arduino Leonardo, but should be easily ported to other arduino based boards.
+## Results
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
